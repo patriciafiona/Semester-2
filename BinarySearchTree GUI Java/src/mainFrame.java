@@ -278,6 +278,17 @@ public class mainFrame extends javax.swing.JFrame {
             bst[i] = 0;
         }
         
+        //balikin lagi ke nilai awal
+        x = 480;
+        y = 100;
+        per = 1;
+
+        //buat nentuin titik garis awal sama akhir
+        xAwal = 480;
+        xAkhir = 480;
+
+        yAwal = 100;
+        
     }//GEN-LAST:event_resetButtonActionPerformed
 
     private void exitButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_exitButtonActionPerformed
